@@ -1,0 +1,8 @@
+{
+  "name": "YOUSRA90",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://31.220.80.154:9944",
+  "explorer_url": "http://31.220.80.154:4000",
+  "metrics_endpoint": "http://31.220.80.154:9615/metrics",
+  "id": "fc91c14f-6e10-4891-a09b-0a6b9d829172"
+}
